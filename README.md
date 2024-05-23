@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a e-learning dashboard web app !
 - 🌱 I’m currently learning React & node.js
-- 👯 I’m looking to collaborate on MERN stack projects
+- 👯 I’m in love with team working and find new ways to learn
 - 💬 Ask me about anything !
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/letterio-briguglio/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:turningsheeps@gmail.com)
