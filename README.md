@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello, I'm Henvil ! 👋 </h1>
-<h3 align="center">🚀 fullstack developer 🚀</h3>
+<h3 align="center">🚀 fullstack development student 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Henvil" alt="Henvil" /> </p>
 
