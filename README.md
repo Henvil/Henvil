@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm Henvil ! 👋 </h1>
 <h3 align="center">🚀 fullstack developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henvil" alt="Henvil" /> </p>
 
 - 🔭 I’m currently working on a e-learning dashboard web app !
 - 🌱 I’m currently learning React & node.js
