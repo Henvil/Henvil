@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Henvil" alt="Henvil" /> </p>
 
-- 🔭 I’m currently working on a e-learning dashboard web app !
+- 🔭 I’m currently working on a e-learning dashboard web app with AI !
 - 🌱 I’m currently learning React & node.js
 - 👯 I’m in love with team working and find new ways to learn
 - 💬 Ask me about anything !
