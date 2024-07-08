@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hello, I'm Henvil ! 👋 </h1>
-<h3 align="center">🚀 fullstack development student 🚀</h3>
+<h3 align="center">🚀 fullstack development junior 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Henvil" alt="Henvil" /> </p>
 
 - 🔭 I’m currently working on a e-learning dashboard web app with AI !
-- 🌱 I’m currently learning React & node.js
+- 🌱 I’m currently learning React, next.js & node.js
 - 👯 I’m in love with team working and find new ways to learn
 - 💬 Ask me about anything !
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/letterio-briguglio/) 
