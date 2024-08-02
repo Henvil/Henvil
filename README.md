@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Henvil" alt="Henvil" /> </p>
 
-- 🔭 I’m currently working on a e-learning dashboard web app with AI !
-- 🌱 I’m currently learning React, next.js & node.js
+- 🔭 I’m currently working on a dashboard web app with NEXT.JS and REACT !
+- 🌱 I’m still learning React, next.js & node.js - my favourite tecnologies
 - 👯 I’m in love with team working and find new ways to learn
 - 💬 Ask me about anything !
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/letterio-briguglio/) 
